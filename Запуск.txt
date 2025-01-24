@@ -1,0 +1,3 @@
+Команда
+pyinstaller --onefile --noconsole --add-data "day;day" --add-data "res;res" --add-data "kod;kod" emul.py
+
